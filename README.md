@@ -19,7 +19,8 @@ ratings.csv → User ratings for movies
 users.csv → User information (optional use)
 
 
-⚙️ Technologies Used
+Technologies Used
+
 1.Python 🐍
 2.Pandas 📊
 3.NumPy 🔢
